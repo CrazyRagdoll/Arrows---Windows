@@ -1,4 +1,4 @@
-# Sambow
+# Arrows - Windows Edition
 
 Hello fellas, so this is my University project which I made for my dissertation.
 
