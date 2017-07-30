@@ -1,0 +1,6 @@
+﻿  Arrow.cpp
+c:\users\sam\documents\visual studio 2015\projects\arrows - windows\arrows - windows\arrow.cpp(104): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\sam\documents\visual studio 2015\projects\arrows - windows\arrows - windows\arrow.cpp(263): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\sam\documents\visual studio 2015\projects\arrows - windows\arrows - windows\arrow.cpp(135): warning C4715: 'Arrow::rotate': not all control paths return a value
+  Arrows - Windows.vcxproj -> C:\Users\sam\documents\visual studio 2015\Projects\Arrows - Windows\Debug\Arrows - Windows.exe
+  Arrows - Windows.vcxproj -> C:\Users\sam\documents\visual studio 2015\Projects\Arrows - Windows\Debug\Arrows - Windows.pdb (Partial PDB)
